@@ -27,7 +27,8 @@
 
 ✈ **Plan of Attack:**
 1. What are Convolutional Neural Networks?
-1. Convolutional Operation 
+1. Convolutional Operation
+    Sharpen, Blur, Edge Enhance, **Edge Detect** and Emboss.
 1. ReLU Layer
 1. Pooling
 1. Flattening
