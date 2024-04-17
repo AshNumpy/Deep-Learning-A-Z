@@ -30,9 +30,10 @@
 1. Convolutional Operation
     Sharpen, Blur, Edge Enhance, **Edge Detect** and Emboss.
 1. ReLU Layer
-1. Pooling
+1. Pooling (Downsampling)
 1. Flattening
 1. Full Connection
 1. Summary
+    ![alt text](./Images/image.png)
 1. EXTRA: Softmax & Cross Entropy
 
