@@ -37,3 +37,11 @@
     ![alt text](./Images/image.png)
 1. EXTRA: Softmax & Cross Entropy
 
+### Part 3: [Recurrent Neural Networks](https://www.slideshare.net/KirillEremenko/deep-learning-az-recurrent-neural-networks-rnn-module-3)
+
+✈ **Plan of Attack:**
+1. The idea behind recurrent neural networks
+1. The vanishing gradient problem
+1. Long short term memory LSTM
+1. Practical intuition
+1. Extra: LSTM Variations
